@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emeka2030
-- 👀 I’m interested in ... using coding to create the future of visual effects.
-- 🌱 I’m currently learning ... After Effects , Unreal Engine, Cinema 4d, and Unity.
+- 👀 I’m interested in ... using full stack programming and directing commercials.
+- 🌱 I’m currently learning ... Java Script , Unreal Engine, and AI.
 - 💞️ I’m looking to collaborate on ... tech , music , art pojects.
 - 📫 How to reach me ... emeka.nnakwe@gmail.com and instagram @emeka2030
 
